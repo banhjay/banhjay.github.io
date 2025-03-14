@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    margin: 15px;
+    padding: 20px;
+}
+
+.section {
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid black;
+    text-align: left;
+}
+
+#id-box {
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid grey;
+    text-align: left;
+}
+
+a {
+    color: grey;
+    font-size: 16px;
+}
+
+a:hover {
+    color: purple;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+}
